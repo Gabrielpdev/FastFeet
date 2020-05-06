@@ -4,7 +4,7 @@ import { lighten } from 'polished';
 export const Container = styled.div`
   @import '//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css';
 
-  max-width: 1000px;
+  max-width: 90%;
   margin: 50px auto;
 
   display: flex;

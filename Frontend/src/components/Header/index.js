@@ -32,7 +32,7 @@ export default function Header() {
           <Profile>
             <div className="profile">
               <strong>{profile.name}</strong>
-              <Link to="/profile">Meu Perfil</Link>
+
             </div>
 
             <div className="logout">

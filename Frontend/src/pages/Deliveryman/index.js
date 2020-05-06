@@ -59,6 +59,7 @@ export default function Deliveryman() {
     setPage(page - 1);
   }
 
+
   return (
     <Container>
       <strong>Gerenciamento de Entregadores</strong>

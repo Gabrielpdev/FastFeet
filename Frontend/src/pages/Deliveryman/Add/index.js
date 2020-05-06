@@ -5,7 +5,7 @@ import { PropTypes } from 'prop-types';
 import { toast } from 'react-toastify';
 import { MdArrowBack, MdCheck } from 'react-icons/md';
 import { AiOutlineLoading } from 'react-icons/ai';
-import { Form, Input } from '@rocketseat/unform';
+import { Form, Input  } from '@rocketseat/unform';
 
 import AvatarInput from '../AvatarInput';
 

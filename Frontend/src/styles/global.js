@@ -17,7 +17,6 @@ export default createGlobalStyle`
   }
 
   html, body, #root {
-    position:fixed;
     width: 100%;
     height: 100%;
     background: #3d0000;

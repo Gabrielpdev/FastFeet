@@ -6,7 +6,7 @@ import api from '~/services/api';
 
 import { Container } from './styles';
 
-export default function AvatarInput() {
+export default function AvatarInput({ name }) {
   const { defaultValue, registerField } = useField('avatar');
 
   const [file, setFile] = useState(defaultValue && defaultValue.id);
@@ -17,12 +17,12 @@ export default function AvatarInput() {
   useEffect(() => {
     if (ref.current) {
       registerField({
-        name: 'avatar_id',
+        name,
         ref: ref.current,
         path: 'dataset.file',
       });
     }
-  }, [ref, registerField]);
+  }, [name, ref, registerField]);
 
   async function handleChange(e) {
     const data = new FormData();
@@ -51,10 +51,11 @@ export default function AvatarInput() {
         <input
           type="file"
           id="avatar"
-          accept="image/"
+          accept="image/*"
           data-file={file}
           onChange={handleChange}
           ref={ref}
+          name={name}
         />
       </label>
     </Container>
