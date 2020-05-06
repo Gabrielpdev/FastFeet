@@ -15,8 +15,8 @@ A aplicação em **React Native** é para o entregador visulizar as entregas e t
 3. Um dispositivo ou emulador **Android** conectado ao computador
 
 ### :rocket: Começando
-1. ``git clone https://github.com/Gabrielpdev/GoBarber.git``
-2. ``cd GoBarber``
+1. ``git clone https://github.com/Gabrielpdev/FastFeet.git``
+2. ``cd FastFeet``
 
 ### :rocket: Iniciando com o backend
 1. ``cd Backend``
