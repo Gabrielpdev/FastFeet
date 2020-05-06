@@ -232,18 +232,6 @@ class DeliveriesController {
       return res.status(400).json({ error: 'Delivery does not exists' });
     }
 
-    // Verificar se o produto já foi cancelado
-    if (delivery.deleted_at !== null) {
-      return res.status(401).json({ error: 'Delivery is already canceled' });
-    }
-
-    // Verificar se Produto ja foi entregue
-    if (delivery.end_date !== null) {
-      return res
-        .status(401)
-        .json({ error: 'Product has already been delivered' });
-    }
-
     delivery.deleted_at = new Date();
 
     await delivery.save();
