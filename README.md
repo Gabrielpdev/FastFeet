@@ -48,3 +48,5 @@ Usuário administrador padrão: admin@fastfeet.com / 123456
 - 🔂 **Redux Saga** - Biblioteca Javascript que torna os efeitos colaterais do aplicativo mais faceis de gerenciar.
 - 📛 **Sentry** - Plataforma para monitoramento de erros e notificação em tempo real.
 <hr>
+
+![Web](https://github.com/Gabrielpdev/FastFeet/blob/master/Img/Web.gif)
