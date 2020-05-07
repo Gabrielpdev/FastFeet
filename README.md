@@ -51,7 +51,9 @@ Usuário administrador padrão: admin@fastfeet.com / 123456
 - 📛 **Sentry** - Plataforma para monitoramento de erros e notificação em tempo real.
 <hr>
 
-<p align="center">
-  <img src='./Img/Web.gif'>
-  <img src='./Img/GIF-200507_151949%5B1%5D.gif'>
-</p>
+<h1 align="center">
+  <p align="center">
+    <img src='./Img/Web.gif'>
+    <img src='./Img/GIF-200507_151949%5B1%5D.gif' style={width: 13060px} >
+  </p>
+</h1>
