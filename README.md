@@ -54,6 +54,6 @@ Usuário administrador padrão: admin@fastfeet.com / 123456
 <h1 align="center">
   <p align="center">
     <img src='./Img/Web.gif'>
-    <img src='./Img/GIF-200507_151949%5B1%5D.gif' style={width: 13060px} >
+    <img src="./Img/GIF-200507_151949%5B1%5D.gif" height="600" >
   </p>
 </h1>
