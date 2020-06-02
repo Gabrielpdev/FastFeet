@@ -2,6 +2,14 @@
 
 ![Img](https://github.com/Gabrielpdev/FastFeet/blob/master/Img/img.jpg)
 
+
+<h1 align="center">
+  <p align="center">
+    <img src='./Img/Web.gif' height="325" >
+    <img src="./Img/GIF-200507_151949%5B1%5D.gif" height="325" >
+  </p>
+</h1>
+
 ### 📜 Sobre
 Este é um projeto de um serviço de gestão e acompanhamento de encomendas para uma transportadora fictícia. Construído com as tecnologias mais populares do mundo Javascript, este repositório contem uma API REST (Node.js) como backend, uma aplicação em ReactJS como frontend e um app mobile em React Native.
 
@@ -51,9 +59,3 @@ Usuário administrador padrão: admin@fastfeet.com / 123456
 - 📛 **Sentry** - Plataforma para monitoramento de erros e notificação em tempo real.
 <hr>
 
-<h1 align="center">
-  <p align="center">
-    <img src='./Img/Web.gif'>
-    <img src="./Img/GIF-200507_151949%5B1%5D.gif" height="600" >
-  </p>
-</h1>
