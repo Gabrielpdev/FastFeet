@@ -5,8 +5,8 @@
 
 <h1 align="center">
   <p align="center">
-    <img src='./Img/Web.gif' height="325" >
-    <img src="./Img/GIF-200507_151949%5B1%5D.gif" height="325" >
+    <img src='./Img/Web.gif' height="300" >
+    <img src="./Img/GIF-200507_151949%5B1%5D.gif" height="300" >
   </p>
 </h1>
 
